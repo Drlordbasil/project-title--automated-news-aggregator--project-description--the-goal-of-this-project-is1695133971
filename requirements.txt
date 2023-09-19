@@ -1,0 +1,11 @@
+Based on the provided code, here are the package requirements:
+
+- `requests`: This package is commonly used for making HTTP requests and can be used in the `fetch_data()` function to retrieve data from a real website.
+
+You can install these packages using `pip` by running the following command:
+
+```
+pip install requests
+```
+
+Make sure you have `pip` installed on your machine before running the command.
